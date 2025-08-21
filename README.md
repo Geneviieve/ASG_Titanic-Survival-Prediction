@@ -26,6 +26,11 @@ The trained Logistic Regression model achieved the following performance on the 
     Accuracy: ~79% (The model correctly predicted the survival outcome for about 79% of the passengers in the test data).
     Precision (for survived class): 77%
     Recall (for survived class): 69%
+Meanwhile, the Naive Bayes model achieved the following performance on the test set:
+    
+    Accuracy: ~77% (The model correctly predicted the survival outcome for about 77% of the passengers in the test data).
+    Precision (for survived class): 73%
+    Recall (for survived class): 72%
 
 The confusion matrix provides a detailed breakdown of correct and incorrect predictions for both classes (survived and not survived).
 
